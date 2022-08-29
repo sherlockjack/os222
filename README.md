@@ -9,6 +9,5 @@
 <a href="TXT/mylog.txt">My Log</a><br>
 <a href="https://github.com/sherlockjack/os222/"> Github </a><br>
 <br><br>
-<span style="color:red; font-weight:bold; font-size:larger;">This is the WAY!</span>
 <hr>
 
