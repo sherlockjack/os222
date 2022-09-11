@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS
+permalink: LINKS/
 ---
 
 [Study Link OS]: https://studylinkclasses.com/index.php/courses/operating-system
