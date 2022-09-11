@@ -9,3 +9,9 @@ ZCZC W00 30  L05 Quiz related including studying
 ZCZC W00 300 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 60  L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W00 40  L21 Trying something
+ZCZC W01 200 L02 Zoom related
+ZCZC W01 30  L05 Quiz related including studying
+ZCZC W01 480 L11 Assignment #01
+ZCZC W01 120 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos
+ZCZC W01 30  L41 TXT/mylog.txt related
+
