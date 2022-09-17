@@ -1,10 +1,16 @@
 ---
 permalink: LINKS/
 ---
-
+[OS Dev Wiki]: https://wiki.osdev.org
 [Study Link OS]: https://studylinkclasses.com/index.php/courses/operating-system
 
 # LINKS
 
+## Week 01
 1. [Study Link OS] <br>
 This is the first site i found
+
+## Week 02
+
+1.[OS Dev Wiki]<br>
+This is Link for starting OS Dev learning

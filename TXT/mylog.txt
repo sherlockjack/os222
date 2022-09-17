@@ -14,4 +14,11 @@ ZCZC W01 30  L05 Quiz related including studying
 ZCZC W01 480 L11 Assignment #01
 ZCZC W01 120 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos
 ZCZC W01 30  L41 TXT/mylog.txt related
+ZCZC W02 110 L02 ZOOM meetings related
+ZCZC W02 110 L02 ZOOM meetings related
+ZCZC W02 3   L05 Quiz
+ZCZC W02 60  L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 180 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 10  L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 5   L03 GitHub and git related, including commit, push, pull
 
