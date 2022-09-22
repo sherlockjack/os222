@@ -21,4 +21,7 @@ ZCZC W02 60  L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 180 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 10  L43 TXT/myrank.tex related, including peer review.
 ZCZC W02 5   L03 GitHub and git related, including commit, push, pull
+ZCZC W03 120 L02 ZOOM meetings related
+ZCZC W03 120 L99 Face-to-face lecture.
+ZCZC W03 200 L13 Assignment #03
 
