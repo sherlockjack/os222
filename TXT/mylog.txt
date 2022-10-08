@@ -36,3 +36,11 @@ ZCZC W04 300 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 20  L25 C-language including Make.
 ZCZC W04 70  L64 Helping a friend (OS related problem)
 ZCZC W04 60  L14 Assignment #04
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05 120 L99 Face-to-face lecture.
+ZCZC W05 5   L05 Quiz related including studying
+ZCZC W05 3   L05 Quiz related including studying
+ZCZC W05 60  L05 Quiz related including studying
+ZCZC W05 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 300 L15 Assignment #05
