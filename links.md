@@ -26,3 +26,8 @@ Article about Memory Mapping, not gonna lie you will understand in this website!
 ## Week 05
 1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 Concept about Virtual memory in Operating System 
+
+## Week 06
+1.  [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
+ Explains about concurrency and multi-threading programming briefly.
+
