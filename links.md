@@ -31,3 +31,6 @@ Concept about Virtual memory in Operating System
 1.  [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
  Explains about concurrency and multi-threading programming briefly.
 
+## Week 07
+1. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
+Short note about process synchronization and deadlock

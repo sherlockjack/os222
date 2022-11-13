@@ -52,3 +52,11 @@ ZCZC W06 70  L05 Quiz related including Studying
 ZCZC W06 110 L08 OS chat related
 ZCZC W06 200 L06 Books
 ZCZC W06 300 L16 Assignment #06
+ZCZC W07 120 L02 ZOOM meetings related
+ZCZC W07 120 L99 Face-to-face lecture.
+ZCZC W07 5   L05 Quiz related including studying
+ZCZC W07 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 300 L17 Assignment #07
+ZCZC W07 3   L05 Quiz related including studying
+ZCZC W07 60  L05 Quiz related including studying
