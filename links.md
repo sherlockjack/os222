@@ -34,3 +34,7 @@ Concept about Virtual memory in Operating System
 ## Week 07
 1. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)
 Short note about process synchronization and deadlock
+
+## Week 08
+2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Official Guidance for Linux From Scratch
