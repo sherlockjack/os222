@@ -36,5 +36,9 @@ Concept about Virtual memory in Operating System
 Short note about process synchronization and deadlock
 
 ## Week 08
-2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+1. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 Official Guidance for Linux From Scratch
+
+## Week 09
+1. [Tipe RAID dan Tingkatannya](https://mebiso.com/mengenal-komponen-server-tipe-raid-dan-tingkatannya/)<br>
+Website about Raid and the level

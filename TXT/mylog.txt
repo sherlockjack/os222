@@ -67,3 +67,10 @@ ZCZC W08 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
 ZCZC W08 200 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 900 L18 Assignment #08
 ZCZC W08 3   L05 Quiz related including studying
+ZCZC W09 120 L02 ZOOM meetings related
+ZCZC W09 120 L99 Face-to-face lecture.
+ZCZC W09 5   L05 Quiz related including studying
+ZCZC W09 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W09 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 900 L19 Assignment #09
+ZCZC W09 3   L05 Quiz related including studying
